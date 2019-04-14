@@ -1,0 +1,4 @@
+hadoop python python mapreduce hadoop python mapreduce
+mapreduce hadoop python mapreduce
+hadoop python python mapreduce
+python mapreduce
